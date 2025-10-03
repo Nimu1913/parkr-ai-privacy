@@ -4,7 +4,7 @@ This repository contains the privacy policy for Parkr AI - Smart Parking Assista
 
 ## Live Privacy Policy URL
 Once GitHub Pages is enabled, the privacy policy will be available at:
-- https://nicholasmuradov.github.io/parkr-ai-privacy/
+- https://nimu1913.github.io/parkr-ai-privacy/
 
 ## About Parkr AI
 Parkr AI is an intelligent parking assistant app that helps users:
@@ -23,8 +23,8 @@ Parkr AI is an intelligent parking assistant app that helps users:
 - Applicable local data protection laws
 
 ## Contact
-For privacy-related questions, please open an issue in the main app repository:
-https://github.com/nicholasmuradov/ParkingApp-v2/issues
+For privacy-related questions, please open an issue in this repository:
+https://github.com/Nimu1913/parkr-ai-privacy/issues
 
 ---
 © 2025 Parkr AI - Built with privacy by design 🇸🇪
